@@ -2,3 +2,5 @@ AnalysisResults
 Piezo
 pressures
 old
+*.pyc
+
